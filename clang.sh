@@ -10,7 +10,7 @@ fi
 echo 'Setting up toolchain in $(pwd)/toolchain'
 cd toolchain
 echo 'Download antman and sync'
-bash <(curl -s "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman") -S
+bash <(curl -s "https://raw.githubusercontent.com/Neutron-Toolchains/antman/main/antman") -S=05012024
 echo 'Clone libarchive for bsdtar'
 git clone https://github.com/libarchive/libarchive || true
 #sudo apt install -y pkg-config m4 libtool automake autoconf
