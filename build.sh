@@ -5,8 +5,8 @@ set -e
 [ ! -e "toolchain" ] && echo "Make toolchain avaliable at $(pwd)/toolchain" && exit
 
 export KBUILD_BUILD_USER=ash
-export KBUILD_BUILD_HOST=ashcafe
-
+export KBUILD_BUILD_HOST=shogun
+export ARCH=arm64
 PATH=$PWD/toolchain/bin:$PATH
 
 rm -rf out
