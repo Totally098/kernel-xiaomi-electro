@@ -1,0 +1,1 @@
+cmd_drivers/staging/erofs/built-in.a :=  rm -f drivers/staging/erofs/built-in.a; llvm-ar rcSTPD drivers/staging/erofs/built-in.a drivers/staging/erofs/super.o drivers/staging/erofs/inode.o drivers/staging/erofs/data.o drivers/staging/erofs/namei.o drivers/staging/erofs/dir.o drivers/staging/erofs/utils.o drivers/staging/erofs/xattr.o

@@ -1,0 +1,1 @@
+cmd_drivers/misc/goodix/built-in.a :=  rm -f drivers/misc/goodix/built-in.a; llvm-ar rcSTPD drivers/misc/goodix/built-in.a drivers/misc/goodix/gf_spi.o drivers/misc/goodix/platform.o drivers/misc/goodix/netlink.o

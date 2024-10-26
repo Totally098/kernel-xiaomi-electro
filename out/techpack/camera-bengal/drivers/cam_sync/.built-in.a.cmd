@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_sync/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_sync/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_sync/built-in.a techpack/camera-bengal/drivers/cam_sync/cam_sync.o techpack/camera-bengal/drivers/cam_sync/cam_sync_util.o

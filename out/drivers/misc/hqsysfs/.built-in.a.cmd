@@ -1,0 +1,1 @@
+cmd_drivers/misc/hqsysfs/built-in.a :=  rm -f drivers/misc/hqsysfs/built-in.a; llvm-ar rcSTPD drivers/misc/hqsysfs/built-in.a drivers/misc/hqsysfs/hqsysfs.o drivers/misc/hqsysfs/hqsys_misc.o drivers/misc/hqsysfs/hqsys_pcba.o

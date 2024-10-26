@@ -1,0 +1,31 @@
+arch/arm64/boot/dts/vendor/qcom/.bengal-idp-overlay.dtbo.dts.tmp: \
+  ../arch/arm64/boot/dts/vendor/qcom/bengal-idp-overlay.dts \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../arch/arm64/boot/dts/vendor/qcom/bengal-idp.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/iio/qcom,spmi-vadc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/input/input.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/input/linux-event-codes.h \
+  ../arch/arm64/boot/dts/vendor/qcom/bengal-audio-overlay.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,audio-ext-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/sound/qcom,bolero-clk-rsc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/sound/audio-codec-port-types.h \
+  ../arch/arm64/boot/dts/vendor/qcom/bengal-thermal-overlay.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/thermal/thermal.h \
+  ../arch/arm64/boot/dts/vendor/qcom/bengal-sde-display.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-td4330-truly-v2-singlemipi-fhd-cmd.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-td4330-truly-v2-singlemipi-fhd-vid.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-nt36525-truly-hd-plus-vid.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-nt36672a-tianma-fhd-video.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-ft8719-truly-fhd-vid.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-r66451-hd-plus-90hz-video.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-r66451-hd-plus-90hz-cmd.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-nt36672d-xinli-v2-video.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/dsi-panel-nt36672d-tianma-v2-video.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mdss-14nm-pll-clk.h \
+  ../arch/arm64/boot/dts/vendor/qcom/camera/bengal-camera-sensor-idp.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/qcom,gcc-bengal.h \
+  ../arch/arm64/boot/dts/vendor/qcom/qg-batterydata-NVT-6000mah.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/qg-batterydata-XWD-6000mah.dtsi \
+  ../arch/arm64/boot/dts/vendor/qcom/smb1355.dtsi

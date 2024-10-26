@@ -1,0 +1,17 @@
+!<thin>
+//                                              152       `
+ope_hw/ope_dev.o/
+ope_hw/ope_soc.o/
+ope_hw/ope_core.o/
+ope_hw/top/ope_top.o/
+ope_hw/bus_rd/ope_bus_rd.o/
+ope_hw/bus_wr/ope_bus_wr.o/
+cam_ope_hw_mgr.o/
+
+/0              0           0     0     644     14992     `
+/18             0           0     0     644     4512      `
+/36             0           0     0     644     30456     `
+/55             0           0     0     644     9776      `
+/77             0           0     0     644     18968     `
+/105            0           0     0     644     16248     `
+/133            0           0     0     644     91088     `

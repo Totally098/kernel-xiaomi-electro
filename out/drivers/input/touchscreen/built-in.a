@@ -1,0 +1,89 @@
+!<thin>
+//                                              1248      `
+of_touchscreen.o/
+st/fts.o/
+st/fts_gui.o/
+st/fts_driver_test.o/
+st/fts_aoi_event.o/
+st/fts_lib/ftsCompensation.o/
+st/fts_lib/ftsCrossCompile.o/
+st/fts_lib/ftsError.o/
+st/fts_lib/ftsFrame.o/
+st/fts_lib/ftsIO.o/
+st/fts_lib/ftsTest.o/
+st/fts_lib/ftsTime.o/
+st/fts_lib/ftsTool.o/
+st/fts_lib/ftsFlash.o/
+st/fts_lib/ftsGesture.o/
+synaptics_dsx/synaptics_dsx_i2c.o/
+synaptics_dsx/synaptics_dsx_core.o/
+synaptics_dsx/synaptics_dsx_rmi_dev.o/
+synaptics_dsx/synaptics_dsx_fw_update.o/
+synaptics_dsx/synaptics_dsx_test_reporting.o/
+synaptics_tcm/synaptics_tcm_i2c.o/
+synaptics_tcm/synaptics_tcm_core.o/
+synaptics_tcm/synaptics_tcm_touch.o/
+synaptics_tcm/synaptics_tcm_device.o/
+synaptics_tcm/synaptics_tcm_diagnostics.o/
+NT36672A/nt36xxx.o/
+NT36672A/nt36xxx_fw_update.o/
+NT36672A/nt36xxx_ext_proc.o/
+NT36672A/nt36xxx_mp_ctrlram.o/
+FT8719/focaltech_core.o/
+FT8719/focaltech_ex_fun.o/
+FT8719/focaltech_ex_mode.o/
+FT8719/focaltech_gesture.o/
+FT8719/focaltech_esdcheck.o/
+FT8719/focaltech_point_report_check.o/
+FT8719/focaltech_test/focaltech_test.o/
+FT8719/focaltech_test/focaltech_test_ini.o/
+FT8719/focaltech_test/supported_ic/focaltech_test_ft8719.o/
+FT8719/focaltech_flash.o/
+FT8719/focaltech_spi.o/
+vituralsar_driver.o/
+xiaomi/xiaomi_touch.o/
+tp_common.o/
+
+/0              0           0     0     644     6808      `
+/18             0           0     0     644     104008    `
+/28             0           0     0     644     1008      `
+/42             0           0     0     644     24208     `
+/64             0           0     0     644     3048      `
+/84             0           0     0     644     22288     `
+/114            0           0     0     644     1344      `
+/144            0           0     0     644     7352      `
+/167            0           0     0     644     14776     `
+/190            0           0     0     644     10440     `
+/210            0           0     0     644     149496    `
+/232            0           0     0     644     1920      `
+/254            0           0     0     644     47208     `
+/276            0           0     0     644     27312     `
+/299            0           0     0     644     26368     `
+/324            0           0     0     644     17536     `
+/359            0           0     0     644     64728     `
+/395            0           0     0     644     24504     `
+/434            0           0     0     644     48184     `
+/475            0           0     0     644     56904     `
+/521            0           0     0     644     18304     `
+/556            0           0     0     644     94160     `
+/592            0           0     0     644     28880     `
+/629            0           0     0     644     20376     `
+/667            0           0     0     644     18576     `
+/710            0           0     0     644     81240     `
+/730            0           0     0     644     19352     `
+/760            0           0     0     644     54216     `
+/789            0           0     0     644     119656    `
+/820            0           0     0     644     53744     `
+/845            0           0     0     644     32120     `
+/872            0           0     0     644     11568     `
+/900            0           0     0     644     14320     `
+/928            0           0     0     644     14744     `
+/957            0           0     0     644     1032      `
+/996            0           0     0     644     77864     `
+/1036           0           0     0     644     59840     `
+/1080           0           0     0     644     37800     `
+/1140           0           0     0     644     38680     `
+/1166           0           0     0     644     11032     `
+/1190           0           0     0     644     13048     `
+/1211           0           0     0     644     14104     `
+/1234           0           0     0     644     3560      `

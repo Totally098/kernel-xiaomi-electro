@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_sensor_module/cam_sensor_utils/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_sensor_module/cam_sensor_utils/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_sensor_module/cam_sensor_utils/built-in.a techpack/camera-bengal/drivers/cam_sensor_module/cam_sensor_utils/cam_sensor_util.o

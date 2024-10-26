@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_cpas/camss_top/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_cpas/camss_top/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_cpas/camss_top/built-in.a techpack/camera-bengal/drivers/cam_cpas/camss_top/cam_camsstop_hw.o

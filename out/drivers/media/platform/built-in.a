@@ -1,0 +1,12 @@
+!<thin>
+//                                              168       `
+msm/dvb/adapter/mpq_adapter.o/
+msm/dvb/adapter/mpq_stream_buffer.o/
+msm/dvb/demux/mpq_dmx_plugin_common.o/
+msm/dvb/demux/mpq_sdmx.o/
+msm/dvb/demux/mpq_dmx_plugin_sw.o/
+/0              0           0     0     644     10752     `
+/31             0           0     0     644     25976     `
+/68             0           0     0     644     60704     `
+/107            0           0     0     644     18800     `
+/133            0           0     0     644     9384      `

@@ -1,0 +1,33 @@
+!<thin>
+//                                              226       `
+hid-core.o/
+hid-input.o/
+hid-quirks.o/
+uhid.o/
+hid-generic.o/
+hid-apple.o/
+hid-elecom.o/
+hid-magicmouse.o/
+hid-microsoft.o/
+hid-multitouch.o/
+hid-nintendo.o/
+hid-plantronics.o/
+hid-sony.o/
+usbhid/hid-core.o/
+usbhid/hiddev.o/
+
+/0              0           0     0     644     62672     `
+/12             0           0     0     644     110040    `
+/25             0           0     0     644     21808     `
+/39             0           0     0     644     18800     `
+/47             0           0     0     644     4400      `
+/62             0           0     0     644     15928     `
+/75             0           0     0     644     4568      `
+/89             0           0     0     644     12032     `
+/107            0           0     0     644     12376     `
+/124            0           0     0     644     26888     `
+/142            0           0     0     644     13520     `
+/158            0           0     0     644     6208      `
+/177            0           0     0     644     39880     `
+/189            0           0     0     644     38776     `
+/208            0           0     0     644     19736     `

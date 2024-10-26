@@ -1,0 +1,12 @@
+!<thin>
+//                                              128       `
+adapter/mpq_adapter.o/
+adapter/mpq_stream_buffer.o/
+demux/mpq_dmx_plugin_common.o/
+demux/mpq_sdmx.o/
+demux/mpq_dmx_plugin_sw.o/
+/0              0           0     0     644     10752     `
+/23             0           0     0     644     25976     `
+/52             0           0     0     644     60704     `
+/83             0           0     0     644     18800     `
+/101            0           0     0     644     9384      `

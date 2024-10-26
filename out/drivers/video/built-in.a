@@ -1,0 +1,12 @@
+!<thin>
+//                                              96        `
+hdmi.o/
+backlight/lcd.o/
+backlight/backlight.o/
+backlight/sgm37603a.o/
+fbdev/core/fb_cmdline.o/
+/0              0           0     0     644     28328     `
+/8              0           0     0     644     12392     `
+/25             0           0     0     644     27592     `
+/48             0           0     0     644     68672     `
+/71             0           0     0     644     5584      `

@@ -1,0 +1,21 @@
+!<thin>
+//                                              266       `
+ope_hw_mgr/ope_hw/ope_dev.o/
+ope_hw_mgr/ope_hw/ope_soc.o/
+ope_hw_mgr/ope_hw/ope_core.o/
+ope_hw_mgr/ope_hw/top/ope_top.o/
+ope_hw_mgr/ope_hw/bus_rd/ope_bus_rd.o/
+ope_hw_mgr/ope_hw/bus_wr/ope_bus_wr.o/
+ope_hw_mgr/cam_ope_hw_mgr.o/
+cam_ope_subdev.o/
+cam_ope_context.o/
+
+/0              0           0     0     644     14992     `
+/29             0           0     0     644     4512      `
+/58             0           0     0     644     30456     `
+/88             0           0     0     644     9776      `
+/121            0           0     0     644     18968     `
+/160            0           0     0     644     16248     `
+/199            0           0     0     644     91088     `
+/228            0           0     0     644     12720     `
+/246            0           0     0     644     10024     `

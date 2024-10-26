@@ -1,0 +1,9 @@
+!<thin>
+//                                              50        `
+msm-poweroff.o/
+xgene-reboot.o/
+syscon-reboot.o/
+
+/0              0           0     0     644     22712     `
+/16             0           0     0     644     4464      `
+/32             0           0     0     644     4528      `

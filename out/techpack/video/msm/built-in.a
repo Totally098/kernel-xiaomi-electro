@@ -1,0 +1,51 @@
+!<thin>
+//                                              550       `
+vidc/msm_v4l2_vidc.o/
+vidc/msm_v4l2_private.o/
+vidc/msm_vidc_platform.o/
+vidc/msm_vidc_common.o/
+vidc/msm_vidc.o/
+vidc/msm_vdec.o/
+vidc/msm_venc.o/
+vidc/msm_cvp_internal.o/
+vidc/msm_smem.o/
+vidc/msm_vidc_debug.o/
+vidc/msm_vidc_res_parse.o/
+vidc/hfi_common.o/
+vidc/hfi_ar50.o/
+vidc/hfi_ar50_lt.o/
+vidc/hfi_iris1.o/
+vidc/hfi_iris2.o/
+vidc/hfi_response_handler.o/
+vidc/hfi_packetization.o/
+vidc/vidc_hfi.o/
+vidc/msm_vidc_clocks.o/
+vidc/msm_vidc_bus_ar50lite.o/
+vidc/msm_vidc_bus_iris1.o/
+vidc/msm_vidc_bus_iris2.o/
+vidc/msm_vidc_buffer_calculations.o/
+
+/0              0           0     0     644     47544     `
+/22             0           0     0     644     43352     `
+/47             0           0     0     644     60904     `
+/73             0           0     0     644     548304    `
+/97             0           0     0     644     177336    `
+/114            0           0     0     644     92160     `
+/131            0           0     0     644     495144    `
+/148            0           0     0     644     46496     `
+/173            0           0     0     644     40520     `
+/190            0           0     0     644     19976     `
+/213            0           0     0     644     107208    `
+/240            0           0     0     644     366240    `
+/259            0           0     0     644     1264      `
+/276            0           0     0     644     13600     `
+/296            0           0     0     644     2216      `
+/314            0           0     0     644     32400     `
+/332            0           0     0     644     85168     `
+/361            0           0     0     644     26160     `
+/387            0           0     0     644     6760      `
+/404            0           0     0     644     104376    `
+/428            0           0     0     644     8280      `
+/458            0           0     0     644     21632     `
+/485            0           0     0     644     14784     `
+/512            0           0     0     644     54840     `

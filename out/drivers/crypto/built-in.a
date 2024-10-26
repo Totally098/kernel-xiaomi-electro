@@ -1,0 +1,21 @@
+!<thin>
+//                                              128       `
+qce/core.o/
+qce/common.o/
+qce/dma.o/
+qce/sha.o/
+qce/ablkcipher.o/
+msm/qce50.o/
+msm/qcedev.o/
+msm/qcedev_smmu.o/
+msm/qcrypto.o/
+
+/0              0           0     0     644     8720      `
+/12             0           0     0     644     4776      `
+/26             0           0     0     644     2856      `
+/37             0           0     0     644     10472     `
+/48             0           0     0     644     8912      `
+/66             0           0     0     644     115384    `
+/79             0           0     0     644     162288    `
+/93             0           0     0     644     10592     `
+/112            0           0     0     644     96920     `

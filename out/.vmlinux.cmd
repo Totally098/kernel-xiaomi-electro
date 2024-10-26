@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/sh ../scripts/link-vmlinux.sh ld.lld -EL  -maarch64elf -z norelro -z noexecstack --no-undefined -X -shared -Bsymbolic -z notext  --no-apply-dynamic-relocs --fix-cortex-a53-843419  --build-id  -X --pack-dyn-relocs=relr ;  true

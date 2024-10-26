@@ -1,0 +1,17 @@
+!<thin>
+//                                              138       `
+cam_req_mgr_core.o/
+cam_req_mgr_dev.o/
+cam_req_mgr_util.o/
+cam_req_mgr_workq.o/
+cam_mem_mgr.o/
+cam_req_mgr_timer.o/
+cam_req_mgr_debug.o/
+
+/0              0           0     0     644     84144     `
+/20             0           0     0     644     29848     `
+/39             0           0     0     644     14608     `
+/59             0           0     0     644     9552      `
+/80             0           0     0     644     40840     `
+/95             0           0     0     644     4920      `
+/116            0           0     0     644     1408      `

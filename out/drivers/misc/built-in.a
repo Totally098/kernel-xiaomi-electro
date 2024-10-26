@@ -1,0 +1,32 @@
+!<thin>
+//                                              298       `
+qseecom.o/
+uid_sys_stats.o/
+simtray.o/
+dpdt.o/
+xiaomi_fs/mi_fs.o/
+hqsysfs/hqsysfs.o/
+hqsysfs/hqsys_misc.o/
+hqsysfs/hqsys_pcba.o/
+fpr_FingerprintCard/fpc1020_platform_tee.o/
+goodix/gf_spi.o/
+goodix/platform.o/
+goodix/netlink.o/
+focaltech/ff_ctl.o/
+focaltech/plat-msm8916.o/
+cdfingerfp/cdfingerfp.o/
+/0              0           0     0     644     351000    `
+/11             0           0     0     644     14624     `
+/28             0           0     0     644     5408      `
+/39             0           0     0     644     5368      `
+/47             0           0     0     644     6232      `
+/66             0           0     0     644     19360     `
+/85             0           0     0     644     6600      `
+/107            0           0     0     644     3632      `
+/129            0           0     0     644     20048     `
+/173            0           0     0     644     19504     `
+/190            0           0     0     644     4760      `
+/209            0           0     0     644     3088      `
+/227            0           0     0     644     26808     `
+/247            0           0     0     644     10576     `
+/273            0           0     0     644     15944     `

@@ -1,0 +1,7 @@
+kernel/drivers/misc/qseecom.ko
+kernel/drivers/misc/simtray.ko
+kernel/drivers/misc/dpdt.ko
+kernel/drivers/misc/fpr_FingerprintCard/fpc1020.ko
+kernel/drivers/misc/goodix/gf_spi.ko
+kernel/drivers/misc/goodix/platform.ko
+kernel/drivers/misc/goodix/netlink.ko

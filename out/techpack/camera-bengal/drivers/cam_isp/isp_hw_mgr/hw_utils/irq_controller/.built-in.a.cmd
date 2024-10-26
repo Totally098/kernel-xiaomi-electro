@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_isp/isp_hw_mgr/hw_utils/irq_controller/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_isp/isp_hw_mgr/hw_utils/irq_controller/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_isp/isp_hw_mgr/hw_utils/irq_controller/built-in.a techpack/camera-bengal/drivers/cam_isp/isp_hw_mgr/hw_utils/irq_controller/cam_irq_controller.o

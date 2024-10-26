@@ -1,0 +1,9 @@
+kernel/drivers/clk/qcom/clk-qcom.ko
+kernel/drivers/clk/qcom/a53-pll.ko
+kernel/drivers/clk/qcom/apcs-msm8916.ko
+kernel/drivers/clk/qcom/clk-smd-rpm.ko
+kernel/drivers/clk/qcom/debugcc-bengal.ko
+kernel/drivers/clk/qcom/dispcc-bengal.ko
+kernel/drivers/clk/qcom/gcc-bengal.ko
+kernel/drivers/clk/qcom/gpucc-bengal.ko
+kernel/drivers/clk/qcom/clk-spmi-pmic-div.ko

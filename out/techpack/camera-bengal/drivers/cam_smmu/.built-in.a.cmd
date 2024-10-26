@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_smmu/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_smmu/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_smmu/built-in.a techpack/camera-bengal/drivers/cam_smmu/cam_smmu_api.o

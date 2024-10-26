@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/NT36672A/built-in.a :=  rm -f drivers/input/touchscreen/NT36672A/built-in.a; llvm-ar rcSTPD drivers/input/touchscreen/NT36672A/built-in.a drivers/input/touchscreen/NT36672A/nt36xxx.o drivers/input/touchscreen/NT36672A/nt36xxx_fw_update.o drivers/input/touchscreen/NT36672A/nt36xxx_ext_proc.o drivers/input/touchscreen/NT36672A/nt36xxx_mp_ctrlram.o

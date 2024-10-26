@@ -1,0 +1,105 @@
+!<thin>
+//                                              914       `
+codecs/q6audio_v2.o/
+codecs/q6audio_v2_aio.o/
+codecs/audio_utils_aio.o/
+codecs/audio_utils.o/
+codecs/audio_native.o/
+codecs/aac_in.o/
+codecs/amrnb_in.o/
+codecs/amrwb_in.o/
+codecs/audio_aac.o/
+codecs/audio_alac.o/
+codecs/audio_amrnb.o/
+codecs/audio_amrwb.o/
+codecs/audio_amrwbplus.o/
+codecs/audio_ape.o/
+codecs/audio_evrc.o/
+codecs/audio_g711alaw.o/
+codecs/audio_g711mlaw.o/
+codecs/audio_hwacc_effects.o/
+codecs/audio_mp3.o/
+codecs/audio_multi_aac.o/
+codecs/audio_qcelp.o/
+codecs/audio_wma.o/
+codecs/audio_wmapro.o/
+codecs/evrc_in.o/
+codecs/g711alaw_in.o/
+codecs/g711mlaw_in.o/
+codecs/qcelp_in.o/
+msm-audio-event-notify.o/
+audio_calibration.o/
+audio_cal_utils.o/
+q6adm.o/
+q6afe.o/
+q6asm.o/
+q6audio-v2.o/
+q6voice.o/
+q6core.o/
+q6common.o/
+rtac.o/
+q6lsm.o/
+adsp_err.o/
+msm_audio_ion.o/
+avtimer.o/
+q6_init.o/
+digital-cdc-rsc-mgr.o/
+usf.o/
+usfcdev.o/
+q6usm.o/
+adsp-loader.o/
+audio_pdr.o/
+audio_notifier.o/
+audio_ssr.o/
+
+/0              0           0     0     644     3624      `
+/21             0           0     0     644     4544      `
+/46             0           0     0     644     40296     `
+/72             0           0     0     644     16336     `
+/94             0           0     0     644     5464      `
+/117            0           0     0     644     15832     `
+/134            0           0     0     644     11864     `
+/153            0           0     0     644     11760     `
+/172            0           0     0     644     12072     `
+/192            0           0     0     644     9704      `
+/213            0           0     0     644     6864      `
+/235            0           0     0     644     6368      `
+/257            0           0     0     644     8792      `
+/283            0           0     0     644     8952      `
+/303            0           0     0     644     6032      `
+/324            0           0     0     644     9728      `
+/349            0           0     0     644     9680      `
+/374            0           0     0     644     17992     `
+/404            0           0     0     644     6480      `
+/424            0           0     0     644     12624     `
+/450            0           0     0     644     5872      `
+/472            0           0     0     644     9000      `
+/492            0           0     0     644     9752      `
+/515            0           0     0     644     11608     `
+/533            0           0     0     644     11032     `
+/555            0           0     0     644     11032     `
+/577            0           0     0     644     12000     `
+/596            0           0     0     644     8848      `
+/622            0           0     0     644     12112     `
+/643            0           0     0     644     22864     `
+/662            0           0     0     644     136024    `
+/671            0           0     0     644     236488    `
+/680            0           0     0     644     317488    `
+/689            0           0     0     644     9424      `
+/703            0           0     0     644     265928    `
+/714            0           0     0     644     68232     `
+/724            0           0     0     644     7120      `
+/736            0           0     0     644     56224     `
+/744            0           0     0     644     77568     `
+/753            0           0     0     644     3208      `
+/765            0           0     0     644     23440     `
+/782            0           0     0     644     22560     `
+/793            0           0     0     644     3880      `
+/804            0           0     0     644     8096      `
+/827            0           0     0     644     41920     `
+/834            0           0     0     644     7720      `
+/845            0           0     0     644     33120     `
+/854            0           0     0     644     11584     `
+/869            0           0     0     644     9928      `
+/882            0           0     0     644     18136     `
+/900            0           0     0     644     4088      `

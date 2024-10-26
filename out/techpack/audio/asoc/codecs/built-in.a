@@ -1,0 +1,71 @@
+!<thin>
+//                                              696       `
+wcd937x/wcd937x.o/
+wcd937x/wcd937x-regmap.o/
+wcd937x/wcd937x-tables.o/
+wcd937x/wcd937x-mbhc.o/
+wcd937x/wcd937x_slave.o/
+bolero/bolero-cdc.o/
+bolero/bolero-cdc-utils.o/
+bolero/bolero-cdc-regmap.o/
+bolero/bolero-cdc-tables.o/
+bolero/bolero-clk-rsc.o/
+bolero/va-macro.o/
+bolero/tx-macro.o/
+bolero/rx-macro.o/
+rouleur/rouleur.o/
+rouleur/rouleur-regmap.o/
+rouleur/rouleur-tables.o/
+rouleur/rouleur-mbhc.o/
+rouleur/rouleur_slave.o/
+rouleur/pm2250_spmi.o/
+wcd9xxx-core-init.o/
+msm-cdc-pinctrl.o/
+msm-cdc-supply.o/
+wcd-irq.o/
+wcd-clsh.o/
+wcdcal-hwdep.o/
+wcd9xxx-soc-init.o/
+wcd-dsp-utils.o/
+wcd-dsp-mgr.o/
+audio-ext-clk-up.o/
+msm_stub.o/
+wcd-mbhc-v2.o/
+wcd-mbhc-adc.o/
+aw87359_audio.o/
+aw87519_audio.o/
+
+/0              0           0     0     644     100704    `
+/19             0           0     0     644     5672      `
+/45             0           0     0     644     2392      `
+/71             0           0     0     644     29064     `
+/95             0           0     0     644     5712      `
+/120            0           0     0     644     49800     `
+/141            0           0     0     644     5256      `
+/168            0           0     0     644     8992      `
+/196            0           0     0     644     5640      `
+/224            0           0     0     644     22672     `
+/249            0           0     0     644     156784    `
+/268            0           0     0     644     174800    `
+/287            0           0     0     644     152424    `
+/306            0           0     0     644     79696     `
+/325            0           0     0     644     3520      `
+/351            0           0     0     644     1576      `
+/377            0           0     0     644     28136     `
+/401            0           0     0     644     5768      `
+/426            0           0     0     644     7720      `
+/449            0           0     0     644     3552      `
+/470            0           0     0     644     17248     `
+/489            0           0     0     644     25008     `
+/507            0           0     0     644     10384     `
+/518            0           0     0     644     17232     `
+/530            0           0     0     644     10176     `
+/546            0           0     0     644     3192      `
+/566            0           0     0     644     6696      `
+/583            0           0     0     644     26504     `
+/598            0           0     0     644     17112     `
+/618            0           0     0     644     5320      `
+/630            0           0     0     644     50056     `
+/645            0           0     0     644     19048     `
+/661            0           0     0     644     31760     `
+/678            0           0     0     644     31992     `

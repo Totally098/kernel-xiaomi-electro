@@ -1,0 +1,1 @@
+cmd_drivers/misc/focaltech/built-in.a :=  rm -f drivers/misc/focaltech/built-in.a; llvm-ar rcSTPD drivers/misc/focaltech/built-in.a drivers/misc/focaltech/ff_ctl.o drivers/misc/focaltech/plat-msm8916.o

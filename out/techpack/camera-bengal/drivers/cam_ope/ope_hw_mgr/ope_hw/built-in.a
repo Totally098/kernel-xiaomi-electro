@@ -1,0 +1,15 @@
+!<thin>
+//                                              92        `
+ope_dev.o/
+ope_soc.o/
+ope_core.o/
+top/ope_top.o/
+bus_rd/ope_bus_rd.o/
+bus_wr/ope_bus_wr.o/
+
+/0              0           0     0     644     14992     `
+/11             0           0     0     644     4512      `
+/22             0           0     0     644     30456     `
+/34             0           0     0     644     9776      `
+/49             0           0     0     644     18968     `
+/70             0           0     0     644     16248     `

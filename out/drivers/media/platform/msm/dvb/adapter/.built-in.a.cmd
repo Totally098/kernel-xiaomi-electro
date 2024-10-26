@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/dvb/adapter/built-in.a :=  rm -f drivers/media/platform/msm/dvb/adapter/built-in.a; llvm-ar rcSTPD drivers/media/platform/msm/dvb/adapter/built-in.a drivers/media/platform/msm/dvb/adapter/mpq_adapter.o drivers/media/platform/msm/dvb/adapter/mpq_stream_buffer.o

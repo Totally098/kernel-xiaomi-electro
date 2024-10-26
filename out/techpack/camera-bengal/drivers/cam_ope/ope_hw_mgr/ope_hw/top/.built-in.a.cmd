@@ -1,0 +1,1 @@
+cmd_techpack/camera-bengal/drivers/cam_ope/ope_hw_mgr/ope_hw/top/built-in.a :=  rm -f techpack/camera-bengal/drivers/cam_ope/ope_hw_mgr/ope_hw/top/built-in.a; llvm-ar rcSTPD techpack/camera-bengal/drivers/cam_ope/ope_hw_mgr/ope_hw/top/built-in.a techpack/camera-bengal/drivers/cam_ope/ope_hw_mgr/ope_hw/top/ope_top.o

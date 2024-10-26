@@ -1,0 +1,39 @@
+!<thin>
+//                                              580       `
+hw_utils/cam_tasklet_util.o/
+hw_utils/cam_isp_packet_parser.o/
+hw_utils/irq_controller/cam_irq_controller.o/
+isp_hw/top_tpg/cam_top_tpg_dev.o/
+isp_hw/top_tpg/cam_top_tpg_soc.o/
+isp_hw/top_tpg/cam_top_tpg_core.o/
+isp_hw/top_tpg/cam_top_tpg_v1.o/
+isp_hw/tfe_csid_hw/cam_tfe_csid_dev.o/
+isp_hw/tfe_csid_hw/cam_tfe_csid_soc.o/
+isp_hw/tfe_csid_hw/cam_tfe_csid_core.o/
+isp_hw/tfe_csid_hw/cam_tfe_csid530.o/
+isp_hw/tfe_hw/cam_tfe_soc.o/
+isp_hw/tfe_hw/cam_tfe_dev.o/
+isp_hw/tfe_hw/cam_tfe_core.o/
+isp_hw/tfe_hw/cam_tfe_bus.o/
+isp_hw/tfe_hw/cam_tfe.o/
+cam_isp_hw_mgr.o/
+cam_tfe_hw_mgr.o/
+
+/0              0           0     0     644     9880      `
+/29             0           0     0     644     17816     `
+/63             0           0     0     644     14336     `
+/109            0           0     0     644     3936      `
+/143            0           0     0     644     5664      `
+/177            0           0     0     644     17432     `
+/212            0           0     0     644     4256      `
+/245            0           0     0     644     3952      `
+/284            0           0     0     644     7432      `
+/323            0           0     0     644     78288     `
+/363            0           0     0     644     5344      `
+/401            0           0     0     644     9216      `
+/430            0           0     0     644     8160      `
+/459            0           0     0     644     64560     `
+/489            0           0     0     644     35016     `
+/518            0           0     0     644     8784      `
+/543            0           0     0     644     2112      `
+/561            0           0     0     644     117032    `

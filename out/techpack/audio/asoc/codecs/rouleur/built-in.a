@@ -1,0 +1,15 @@
+!<thin>
+//                                              96        `
+rouleur.o/
+rouleur-regmap.o/
+rouleur-tables.o/
+rouleur-mbhc.o/
+rouleur_slave.o/
+pm2250_spmi.o/
+
+/0              0           0     0     644     79696     `
+/11             0           0     0     644     3520      `
+/29             0           0     0     644     1576      `
+/47             0           0     0     644     28136     `
+/63             0           0     0     644     5768      `
+/80             0           0     0     644     7720      `

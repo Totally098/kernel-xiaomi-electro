@@ -1,0 +1,112 @@
+!<thin>
+//                                              1944      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+event_notify.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+joystick/xpad.o/
+touchscreen/of_touchscreen.o/
+touchscreen/st/fts.o/
+touchscreen/st/fts_gui.o/
+touchscreen/st/fts_driver_test.o/
+touchscreen/st/fts_aoi_event.o/
+touchscreen/st/fts_lib/ftsCompensation.o/
+touchscreen/st/fts_lib/ftsCrossCompile.o/
+touchscreen/st/fts_lib/ftsError.o/
+touchscreen/st/fts_lib/ftsFrame.o/
+touchscreen/st/fts_lib/ftsIO.o/
+touchscreen/st/fts_lib/ftsTest.o/
+touchscreen/st/fts_lib/ftsTime.o/
+touchscreen/st/fts_lib/ftsTool.o/
+touchscreen/st/fts_lib/ftsFlash.o/
+touchscreen/st/fts_lib/ftsGesture.o/
+touchscreen/synaptics_dsx/synaptics_dsx_i2c.o/
+touchscreen/synaptics_dsx/synaptics_dsx_core.o/
+touchscreen/synaptics_dsx/synaptics_dsx_rmi_dev.o/
+touchscreen/synaptics_dsx/synaptics_dsx_fw_update.o/
+touchscreen/synaptics_dsx/synaptics_dsx_test_reporting.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+touchscreen/NT36672A/nt36xxx.o/
+touchscreen/NT36672A/nt36xxx_fw_update.o/
+touchscreen/NT36672A/nt36xxx_ext_proc.o/
+touchscreen/NT36672A/nt36xxx_mp_ctrlram.o/
+touchscreen/FT8719/focaltech_core.o/
+touchscreen/FT8719/focaltech_ex_fun.o/
+touchscreen/FT8719/focaltech_ex_mode.o/
+touchscreen/FT8719/focaltech_gesture.o/
+touchscreen/FT8719/focaltech_esdcheck.o/
+touchscreen/FT8719/focaltech_point_report_check.o/
+touchscreen/FT8719/focaltech_test/focaltech_test.o/
+touchscreen/FT8719/focaltech_test/focaltech_test_ini.o/
+touchscreen/FT8719/focaltech_test/supported_ic/focaltech_test_ft8719.o/
+touchscreen/FT8719/focaltech_flash.o/
+touchscreen/FT8719/focaltech_spi.o/
+touchscreen/vituralsar_driver.o/
+touchscreen/xiaomi/xiaomi_touch.o/
+touchscreen/tp_common.o/
+misc/qpnp-power-on.o/
+misc/uinput.o/
+/0              0           0     0     644     75448     `
+/9              0           0     0     644     5392      `
+/25             0           0     0     644     13312     `
+/37             0           0     0     644     9552      `
+/48             0           0     0     644     5048      `
+/64             0           0     0     644     6856      `
+/78             0           0     0     644     30952     `
+/87             0           0     0     644     37688     `
+/105            0           0     0     644     20072     `
+/127            0           0     0     644     42776     `
+/144            0           0     0     644     6808      `
+/174            0           0     0     644     104008    `
+/196            0           0     0     644     1008      `
+/222            0           0     0     644     24208     `
+/256            0           0     0     644     3048      `
+/288            0           0     0     644     22288     `
+/330            0           0     0     644     1344      `
+/372            0           0     0     644     7352      `
+/407            0           0     0     644     14776     `
+/442            0           0     0     644     10440     `
+/474            0           0     0     644     149496    `
+/508            0           0     0     644     1920      `
+/542            0           0     0     644     47208     `
+/576            0           0     0     644     27312     `
+/611            0           0     0     644     26368     `
+/648            0           0     0     644     17536     `
+/695            0           0     0     644     64728     `
+/743            0           0     0     644     24504     `
+/794            0           0     0     644     48184     `
+/847            0           0     0     644     56904     `
+/905            0           0     0     644     18304     `
+/952            0           0     0     644     94160     `
+/1000           0           0     0     644     28880     `
+/1049           0           0     0     644     20376     `
+/1099           0           0     0     644     18576     `
+/1154           0           0     0     644     81240     `
+/1186           0           0     0     644     19352     `
+/1228           0           0     0     644     54216     `
+/1269           0           0     0     644     119656    `
+/1312           0           0     0     644     53744     `
+/1349           0           0     0     644     32120     `
+/1388           0           0     0     644     11568     `
+/1428           0           0     0     644     14320     `
+/1468           0           0     0     644     14744     `
+/1509           0           0     0     644     1032      `
+/1560           0           0     0     644     77864     `
+/1612           0           0     0     644     59840     `
+/1668           0           0     0     644     37800     `
+/1740           0           0     0     644     38680     `
+/1778           0           0     0     644     11032     `
+/1814           0           0     0     644     13048     `
+/1847           0           0     0     644     14104     `
+/1882           0           0     0     644     3560      `
+/1907           0           0     0     644     58696     `
+/1929           0           0     0     644     22576     `

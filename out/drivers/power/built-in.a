@@ -1,0 +1,50 @@
+!<thin>
+//                                              628       `
+reset/msm-poweroff.o/
+reset/xgene-reboot.o/
+reset/syscon-reboot.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/qcom/step-chg-jeita.o/
+supply/qcom/battery.o/
+supply/qcom/qpnp-smb5.o/
+supply/qcom/smb5-lib.o/
+supply/qcom/pmic-voter.o/
+supply/qcom/storm-watch.o/
+supply/qcom/schgm-flash.o/
+supply/qcom/smb1355-charger.o/
+supply/qcom/qpnp-qg.o/
+supply/qcom/qg-util.o/
+supply/qcom/qg-soc.o/
+supply/qcom/qg-sdam.o/
+supply/qcom/qg-battery-profile.o/
+supply/qcom/qg-profile-lib.o/
+supply/qcom/fg-alg.o/
+supply/qcom/qpnp-smblite.o/
+supply/qcom/smblite-lib.o/
+supply/qcom/schgm-flashlite.o/
+/0              0           0     0     644     22712     `
+/22             0           0     0     644     4464      `
+/44             0           0     0     644     4528      `
+/67             0           0     0     644     44192     `
+/95             0           0     0     644     35744     `
+/124            0           0     0     644     3584      `
+/152            0           0     0     644     18600     `
+/182            0           0     0     644     39096     `
+/205            0           0     0     644     75536     `
+/230            0           0     0     644     181488    `
+/254            0           0     0     644     9040      `
+/280            0           0     0     644     1832      `
+/307            0           0     0     644     5224      `
+/334            0           0     0     644     33096     `
+/365            0           0     0     644     123296    `
+/388            0           0     0     644     11136     `
+/411            0           0     0     644     17040     `
+/433            0           0     0     644     9864      `
+/456            0           0     0     644     19288     `
+/490            0           0     0     644     4360      `
+/520            0           0     0     644     21752     `
+/542            0           0     0     644     42656     `
+/570            0           0     0     644     78880     `
+/597            0           0     0     644     5144      `
